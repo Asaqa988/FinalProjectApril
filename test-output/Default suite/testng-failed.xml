@@ -5,8 +5,8 @@
     <classes>
       <class name="AutomationFinalProject_april.AutomationFinalProject_april.AppTest">
         <methods>
-          <include name="FLightDepatureDate"/>
           <include name="AfterMyTest"/>
+          <include name="CheckTheResultsIsretrived"/>
           <include name="mySetup"/>
         </methods>
       </class> <!-- AutomationFinalProject_april.AutomationFinalProject_april.AppTest -->
